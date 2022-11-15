@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1657341855 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 01 introdução à c++ e orientação a objeto\c++m01a5__concluindo_nossa_primeira_classe\c++m01a5__wr__files\classe1_rev2\main.cpp
+	<iostream>
+	<string>
+	"SalesScore.hpp"
+
+1657342463 d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 01 introdução à c++ e orientação a objeto\c++m01a5__concluindo_nossa_primeira_classe\c++m01a5__wr__files\classe1_rev2\salesscore.hpp
+	<string>
+
+1657342758 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 01 introdução à c++ e orientação a objeto\c++m01a5__concluindo_nossa_primeira_classe\c++m01a5__wr__files\classe1_rev2\salesscore.cpp
+	<iostream>
+	<string>
+	"SalesScore.hpp"
+

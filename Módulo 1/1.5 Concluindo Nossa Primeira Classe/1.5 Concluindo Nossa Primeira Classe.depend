@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668418290 source:c:\users\senor\documents\my_pc\curso c++-wagner rambo\módulo 1\1.5 concluindo nossa primeira classe\salescore.cpp
+	<iostream>
+	<string>
+	"SaleScore.hpp"
+
+1668417418 source:c:\users\senor\documents\my_pc\curso c++-wagner rambo\módulo 1\1.5 concluindo nossa primeira classe\main.cpp
+	<iostream>
+	<string>
+	"SaleScore.hpp"
+
+1668418102 c:\users\senor\documents\my_pc\curso c++-wagner rambo\módulo 1\1.5 concluindo nossa primeira classe\salescore.hpp
+
