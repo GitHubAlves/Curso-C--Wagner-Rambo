@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1658710857 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 03 funções e arrays\c++m03a4__arrays\c++m03a4__wr__files\classesalesscore_rev5\main.cpp
+	"SalesScore.hpp"
+
+1658610489 d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 03 funções e arrays\c++m03a4__arrays\c++m03a4__wr__files\classesalesscore_rev5\salesscore.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1658610619 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 03 funções e arrays\c++m03a4__arrays\c++m03a4__wr__files\classesalesscore_rev5\salesscore.cpp
+	"SalesScore.hpp"
+
+1658894596 source:c:\users\senor\documents\my_pc\curso cpp-wagner rambo\módulo 3\3.4 arrays\zip__c++m03a4__wr__files\c++m03a4__wr__files\classesalesscore_rev5\main.cpp
+	"SalesScore.hpp"
+
+1658610490 c:\users\senor\documents\my_pc\curso cpp-wagner rambo\módulo 3\3.4 arrays\zip__c++m03a4__wr__files\c++m03a4__wr__files\classesalesscore_rev5\salesscore.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1658610620 source:c:\users\senor\documents\my_pc\curso cpp-wagner rambo\módulo 3\3.4 arrays\zip__c++m03a4__wr__files\c++m03a4__wr__files\classesalesscore_rev5\salesscore.cpp
+	"SalesScore.hpp"
+

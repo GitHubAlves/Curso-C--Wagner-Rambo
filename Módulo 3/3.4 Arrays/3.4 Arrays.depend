@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669166455 source:c:\users\senor\documents\my_pc\curso c++-wagner rambo\módulo 2\2.2 instrução de repetição while\main.cpp
+	<iostream>
+
+1671977209 source:c:\users\senor\documents\my_pc\curso cpp-wagner rambo\módulo 3\3.4 arrays\main.cpp
+	<iostream>
+	<string>
+	"SaleScore.hpp"
+
+1671976794 c:\users\senor\documents\my_pc\curso cpp-wagner rambo\módulo 3\3.4 arrays\salescore.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1671977209 source:c:\users\senor\documents\my_pc\curso cpp-wagner rambo\módulo 3\3.4 arrays\salescore.cpp
+	"SaleScore.hpp"
+
